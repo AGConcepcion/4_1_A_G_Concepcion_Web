@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/AGConcepcion/4_1_A_G_Concepcion_Web/issues"
   },
-  "homepage": "https://github.com/AGConcepcion/4_1_A_G_Concepcion_Web#readme"
+  "homepage": "https://github.com/AGConcepcion/4_1_A_G_Concepcion_Web#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
 }
